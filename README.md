@@ -20,8 +20,8 @@ This project demonstrates a modern, animated e-commerce-style interface with smo
 
 ## 🛠 Technologies Used
 
-- *HTML5* – Structure of the web pages.  
-- *CSS3* – Styling, layout, and responsive design.  
+- *HTML* – Structure of the web pages.  
+- *CSS* – Styling, layout, and responsive design.  
 - *JavaScript (Vanilla)* – Interactivity and logic.  
 - *GSAP (GreenSock Animation Platform)* – Smooth animations & scroll effects.  
 - *Google Fonts* – Typography (Anton, Poppins).  
@@ -40,3 +40,4 @@ This project demonstrates a modern, animated e-commerce-style interface with smo
 
 
 1. Clone the repository or download the files
+
